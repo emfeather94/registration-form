@@ -1,0 +1,27 @@
+html {
+  font-family: "Open Sans", sans-serif;
+}
+
+.btn:hover {
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .name {
+    padding-right: .5em;
+  }
+
+  .age {
+    padding-left: .5em;
+  }
+
+  .email {
+    padding-right: .5em;
+  }
+
+  .subject {
+    padding-left: .5em;
+  }
+
+}
